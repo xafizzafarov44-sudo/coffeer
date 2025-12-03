@@ -7,3 +7,6 @@
         burger.classList.toggle("active");
         menu.classList.toggle("active");
     });
+        <script>
+            AOS.init();
+        </script>
